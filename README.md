@@ -1,4 +1,2 @@
-# HRG
-The Horse Racing Text-Based Management Game
-
-Download the latest release .exe to play. Use the current condition book on the releases page to play the game.
+# Sim Thoroughbred
+The text-based horse racing management game. Download the latest release to play. Players must use the condition book to accompany play.
